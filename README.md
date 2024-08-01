@@ -1,2 +1,28 @@
-# Java-basico-Hatano
-Repositório destinado a salvar códigos que eu escrever utilizando os princípios básicos da linguagem Java
+<h1> Sobre mim</h1>
+<p>  Eu sou Henrique Hatano e estou no primeiro semestre de Análise e Desenvolvimento de sistemas. Estou iniciando meus estudos aprendendo sobre a linguagem Java através do curso: 
+  <a href="https://www.dio.me/bootcamp/coding-the-future-claro-java-spring-boot"> Claro - Java com Spring Boot
+  </a>".
+</p>
+
+<h2> Redes Sociais </h2>
+
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/hatano.henrique)
+<br>
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/henrique-koiti-souza-hatano-3962251a5/)
+<br>
+[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=blue)](https://x.com/HenriHatano)
+<br>
+[![Spotify](https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=Spotify&logoColor=green)](https://www.linkedin.com/in/henrique-koiti-souza-hatano-3962251a5/)
+
+<h2> Habilidades</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
+
+
