@@ -13,6 +13,10 @@
 [![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=blue)](https://x.com/HenriHatano)
 <br>
 [![Spotify](https://img.shields.io/badge/Spotify-000?style=for-the-badge&logo=Spotify&logoColor=green)](https://www.linkedin.com/in/henrique-koiti-souza-hatano-3962251a5/)
+<br>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:henri.koiti2002@gmail.com)
+<br>
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/henri_koiti2002)
 
 <h2> Habilidades</h2>
 
