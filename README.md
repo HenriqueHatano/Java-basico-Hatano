@@ -1,5 +1,5 @@
 <h1> Sobre mim</h1>
-<p>  Eu sou Henrique Hatano e estou no primeiro semestre de Análise e Desenvolvimento de sistemas. Estou iniciando meus estudos aprendendo sobre a linguagem Java através do curso: 
+<p>  Eu sou Henrique Hatano e atualmente estou em transição de área. Eu sou formado em técnico em química e estava cursando o terceiro semestre de licenciatura em química, porém meu interesse pela tecnologia nos ultimos 4 anos foram aumentando conforme alguns amigos me explicavam seus trabalhos e estudos tanto na parte inteligência artificial e machine learning quanto ciência de dados. Estando totalmente infeliz com meu curso, decidi migrar de área e hoje me encontro cursando o primeiro semestre de Análise e Desenvolvimento de sistemas. Estou iniciando meus estudos aprendendo sobre git, github e a linguagem Java através do curso: 
   <a href="https://www.dio.me/bootcamp/coding-the-future-claro-java-spring-boot"> Claro - Java com Spring Boot
   </a>".
 </p>
